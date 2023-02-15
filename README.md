@@ -1,4 +1,4 @@
-# Search App usgin AJAX Call
+# Search App use with AJAX Call
 
 # output:
 
